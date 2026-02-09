@@ -1,4 +1,4 @@
-import {presidents} from '../data/presidents.js'
+import {presidents} from '/presidents-fix/data/presidents.js'
 console.log(presidents)
 
 const imgPath = "https://resources.dgmuvu.com/presidents/"
